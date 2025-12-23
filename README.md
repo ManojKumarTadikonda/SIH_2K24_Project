@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For queries or suggestions, please contact:
-- Email: n210049@rguktn.ac.in
-- GitHub: [My Profile](https://github.com/Vinuthna-Sneha)
+- Email: manojtadikonda5@gmail.com
+- GitHub: [My Profile](https://github.com/ManojKumarTadikonda)
